@@ -11,3 +11,7 @@ int number4 = number3 * 10 + a1;
 
 Console.WriteLine(number4);
 
+ // int first = number % 10;
+ // int last = number / 100;
+ // int result = first * 10 + last;
+ // Console.WriteLine(result);
